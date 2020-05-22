@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 env.py
 c3.csvs
+curriculum-access.txt
